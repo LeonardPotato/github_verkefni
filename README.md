@@ -1,4 +1,6 @@
-#GitHub ekki krash texti
+
+#GitHub ok
+
 ##Greinar og samruni - Branching and Merging
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
